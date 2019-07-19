@@ -1,8 +1,8 @@
 # myFirstGit
 Title: myFirstGit
 Description: a simple test repositiry
-install instructions:
-run instructions:
+install instructions: run the js script
+run instructions: run the js script
 week 1
 week 2
 week 3
